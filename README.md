@@ -16,7 +16,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/61c6z6uRCygfdhzqms/giphy.gif" width="250px">
+      <img src="https://media1.tenor.com/m/t33y7kC_yV0AAAAC/archer-fate.gif" width="100%">
       <br>
       <i>"Target Locked."</i>
     </td>
