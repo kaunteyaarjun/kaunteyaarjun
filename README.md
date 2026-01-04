@@ -31,7 +31,7 @@
       </p>
       <ul>
         <li>🏹 <b>Vision:</b> Crafting intuitive <b>UI/UX</b> fused with <b>AI/ML</b>.</li>
-        <li>🛡️ <b>Defense:</b> <b>Cybersecurity</b> Research (R.A.D.H.E.Y.).</li>
+        <li>🛡️ <b>Defense:</b> <b>Cybersecurity</b> Research .</li>
         <li>🏰 <b>Crafting:</b> Building immersive worlds in <b>Minecraft</b> & <b>Web3</b>.</li>
       </ul>
     </td>
