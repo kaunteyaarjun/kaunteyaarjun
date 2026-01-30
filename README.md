@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=INIT_SYSTEM_PROTOCOL...;USER_ID:+KAUNTEYA_ARJUN;ACCESS_LEVEL:+ROOT_ADMIN;LOADING_PROJECT:_OMNI;STATUS:+ONLINE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=INIT_SYSTEM_PROTOCOL...;USER_ID:+KAUNTEYA_ARJUN;ACCESS_LEVEL:+ROOT_ADMIN;TARGET:+OPTICAL_MULTI_NETWORK_INTERFACE;STATUS:+ONLINE" alt="Typing SVG" />
 </a>
 </div>
 
@@ -17,9 +17,9 @@
 <h3 align="center" style="color: #00F0FF;">// CORE_DIRECTIVES</h3>
 <br>
 <p>
-<b style="color: #00F0FF;">>></b> <b>EXECUTE: PROJECT_OMNI</b>
+<b style="color: #00F0FF;">>></b> <b>EXECUTE: OPTICAL_MULTI_NETWORK_INTERFACE</b>
 <br>
-Building Optical Multi Network Interface & DEVI.
+Developing full-scale autonomous network architecture & DEVI.
 <br><br>
 <b style="color: #00F0FF;">>></b> <b>RUN: DEFENSE_MATRIX</b>
 <br>
