@@ -1,76 +1,89 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=00F0FF&text=KAUNTEYA%20ARJUN&desc=SYSTEM%20ARCHITECT%20//%20SECURITY%20//%20UNKNOWN&fontAlign=50&fontAlignY=35&fontSize=60&fontColor=0d1117&descAlign=50&descAlignY=60&animation=fadeIn&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Kaunteya%20Arjun&fontSize=70&fontColor=0d1117&animation=fadeIn&fontAlignY=35&desc=Security%20%7C%20Architecture%20%7C%20Code&descAlignY=65&descAlign=60" width="100%"/>
 </div>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=INIT_SYSTEM_PROTOCOL...;USER_ID:+KAUNTEYA_ARJUN;ACCESS_LEVEL:+ROOT_ADMIN;TARGET:+OPTICAL_MULTI_NETWORK_INTERFACE;STATUS:+ONLINE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Building+Optical+Multi+Network+Interface;SaaS+Architect+%26+Developer;Founder+of+Pole+Studios" alt="Typing SVG" />
 </a>
 </div>
 
 <br>
 
-<div align="center">
-<table border="0" width="100%">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="50%" valign="top">
-<h3 align="center" style="color: #00F0FF;">// CORE_DIRECTIVES</h3>
-<br>
-<p>
-<b style="color: #00F0FF;">>></b> <b>EXECUTE: OPTICAL_MULTI_NETWORK_INTERFACE</b>
-<br>
-Developing full-scale autonomous network architecture & DEVI.
-<br><br>
-<b style="color: #00F0FF;">>></b> <b>RUN: DEFENSE_MATRIX</b>
-<br>
-Advanced Penetration Testing & Bug Bounty Hunting.
-</p>
+<td width="30%" align="center" valign="middle">
+<img src="https://media1.tenor.com/m/t33y7kC_yV0AAAAC/archer-fate.gif" width="95%" style="border-radius: 6px; border: 1px solid #00BFFF; opacity: 0.9;">
 </td>
-<td width="50%" valign="top">
-<h3 align="center" style="color: #00F0FF;">// SYSTEM_RESOURCES</h3>
-<br>
-<p>
-<b style="color: #00F0FF;">::</b> <b>LOAD: TECH_STACK</b>
-<br>
-React, Next.js, Python, Node.js, Linux.
-<br><br>
-<b style="color: #00F0FF;">::</b> <b>MOUNT: CREATIVE_DRIVE</b>
-<br>
-Founder of <b>Pole Studios</b>.
-</p>
+<td width="3%"></td>
+<td width="67%" valign="top">
+<h3>Professional Summary</h3>
+<p>I am <b>Somya</b> (Kaunteya Arjun), a Security Researcher and Full Stack Engineer focused on building resilient, scalable systems. I specialize in merging high-performance backend logic with intuitive frontend design.</p>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="30%"><b>[ Current Focus ]</b></td>
+<td>Developing Optical Multi Network Interface & DEVI.</td>
+</tr>
+<tr>
+<td><b>[ Security ]</b></td>
+<td>Bug Bounty Hunting, Kali Linux, Penetration Testing.</td>
+</tr>
+<tr>
+<td><b>[ Stack ]</b></td>
+<td>React/Next.js, Python (AI/ML), Godot 4, Linux Systems.</td>
+</tr>
+<tr>
+<td><b>[ Commercial ]</b></td>
+<td>Founder at Pole Studios.</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+<h3>Technical Skills</h3>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase,mysql,docker,linux,git,figma,godot,blender&theme=dark" />
 </div>
 
 <br>
 
-<h3 align="center" style="color: #00F0FF;">[ INSTALLED_MODULES ]</h3>
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,linux,docker,firebase,figma,godot,blender,mysql,kali&perline=11&theme=dark" />
-</div>
-
-<br>
-
-<h3 align="center" style="color: #00F0FF;">[ NETWORK_TRAFFIC ]</h3>
-
-<div align="center">
+<h3>GitHub Metrics</h3>
 <table border="0" width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaunteyaarjun&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=00F0FF&title_color=00F0FF&hide_border=true&count_private=true&include_all_commits=true&custom_title=DATA_PACKETS" />
+<img src="https://github-readme-stats.vercel.app/api?username=kaunteyaarjun&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=00BFFF&title_color=00BFFF&hide_border=true&count_private=true&include_all_commits=true&custom_title=Commit%20Activity" />
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunteyaarjun&layout=compact&bg_color=0d1117&text_color=ffffff&title_color=00F0FF&hide_border=true&lang_count=6&icon_color=00F0FF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunteyaarjun&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=00BFFF&hide_border=true&lang_count=6&icon_color=00BFFF" />
 </td>
 </tr>
 </table>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaunteyaarjun&theme=dark&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&stroke=ffffff&hide_border=true" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaunteyaarjun&theme=dark&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&stroke=ffffff&hide_border=true" alt="streak stats"/>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaunteyaarjun&theme=react-dark&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br>
+
+<div align="center">
+<h3>Portfolio & Socials</h3>
+<p align="center">
+<a href="https://somya.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00BFFF&border=00BFFF" /></a>
+<a href="https://github.com/kaunteyaarjun" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 </div>
 
 <div align="center">
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer" width="100%"/>
+<code>2026 Kaunteya Arjun | Focus. Precision. Code.</code>
+<br><br>
 </div>
