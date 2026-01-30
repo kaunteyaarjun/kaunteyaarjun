@@ -22,7 +22,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="30%"><b>Current Focus:</b></td>
-<td>Developing O.M.N.I (Optimal Multi-platform Network Interface) & DEVI.</td>
+<td>Developing (Optimal Multi-platform Network Interface) & DEVI.</td>
 </tr>
 <tr>
 <td><b>Security:</b></td>
