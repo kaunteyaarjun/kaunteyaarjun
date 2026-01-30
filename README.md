@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Building+Autonomous+AI+Systems+( );SaaS+Architect+%26+Developer;Founder+of+Pole+Studios" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Building+Optical+Multi+Network+Interface;SaaS+Architect+%26+Developer;Founder+of+Pole+Studios" alt="Typing SVG" />
 </a>
 </div>
 
@@ -22,7 +22,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td width="30%"><b>Current Focus:</b></td>
-<td>Developing (Optimal Multi-platform Network Interface) & DEVI.</td>
+<td>Developing Optical Multi Network Interface & DEVI.</td>
 </tr>
 <tr>
 <td><b>Security:</b></td>
