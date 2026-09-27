@@ -1,89 +1,77 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=250&section=header&text=Kaunteya%20Arjun&fontSize=70&fontColor=0d1117&animation=fadeIn&fontAlignY=35&desc=Security%20%7C%20Architecture%20%7C%20Code&descAlignY=65&descAlign=60" width="100%"/>
-</div>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=190&section=header&text=Somya%20Prasad%20Sethy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Researcher%20%C2%B7%20Self-Taught%20Engineer&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
+
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Building+Backend+Systems;SaaS+Architect+%26+Developer;Founder+of+Pole+Studios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=Distributed+systems+%2B+LLM+infrastructure;Building+in+Go%2C+Rust%2C+and+Python;Founder+%40+Pole+Studios;Open+to+remote+roles+worldwide" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<a href="mailto:somya5400840@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=8b949e" /></a>
+<a href="https://somya.pages.dev"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=8b949e" /></a>
+<a href="https://polestudios.in"><img src="https://img.shields.io/badge/-Pole%20Studios-0d1117?style=flat-square&logo=googlechrome&logoColor=8b949e" /></a>
+<a href="https://github.com/kaunteyaarjun"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=8b949e" /></a>
+
 </div>
 
-<br>
+<br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tr>
-<td width="30%" align="center" valign="middle">
-<img src="https://media1.tenor.com/m/t33y7kC_yV0AAAAC/archer-fate.gif" width="95%" style="border-radius: 6px; border: 1px solid #00BFFF; opacity: 0.9;">
-</td>
-<td width="3%"></td>
-<td width="67%" valign="top">
-<h3>Professional Summary</h3>
-<p>I am <b>Somya</b> (Kaunteya Arjun), a Security Researcher and Full Stack Engineer focused on building resilient, scalable systems. I specialize in merging high-performance backend logic with intuitive frontend design.</p>
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="30%"><b>[ Current Focus ]</b></td>
-<td>Developing Backend Systems.</td>
-</tr>
-<tr>
-<td><b>[ Security ]</b></td>
-<td>Bug Bounty Hunting, Kali Linux, Penetration Testing.</td>
-</tr>
-<tr>
-<td><b>[ Stack ]</b></td>
-<td>React/Next.js, Python (AI/ML), Godot 4, Linux Systems.</td>
-</tr>
-<tr>
-<td><b>[ Commercial ]</b></td>
-<td>Founder at Pole Studios.</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
+## About
 
-<br>
+Self-taught, AI-assisted full-stack and backend developer with 3+ years building production-grade web applications and developer tooling. Currently focused on backend systems research — distributed caching, agent infrastructure, and DevSecOps tooling. Founder of **Pole Studios**, a branding and web development studio. Open to remote roles worldwide.
 
-<div align="center">
-<h3>Technical Skills</h3>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,firebase,mysql,docker,linux,git,figma,godot,blender&theme=dark" />
-</div>
+<br/>
 
-<br>
+## Experience
 
-<div align="center">
-<h3>GitHub Metrics</h3>
-<table border="0" width="100%">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaunteyaarjun&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=00BFFF&title_color=00BFFF&hide_border=true&count_private=true&include_all_commits=true&custom_title=Commit%20Activity" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunteyaarjun&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=00BFFF&hide_border=true&lang_count=6&icon_color=00BFFF" />
-</td>
-</tr>
-</table>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaunteyaarjun&theme=dark&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&stroke=ffffff&hide_border=true" alt="streak stats"/>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaunteyaarjun&theme=react-dark&bg_color=0d1117&color=00BFFF&line=00BFFF&point=ffffff&hide_border=true" alt="Contribution Graph" />
-</div>
+**Full-Stack Developer** — Independent / Pole Studios · *Jul 2023 – Present*
+- Design and build full-stack web applications (Next.js, React, Node.js) for startup founders and small businesses, translating business requirements into production-grade products
+- Founded Pole Studios (Oct 2025) to formalize the practice into a branding and web development studio, operating on zero external capital
+- Built a streamlined requirements-gathering process that cut project delivery time by 15%
+- Applies AI-assisted workflows across the development lifecycle, from scaffolding to code review
 
-<br>
+<br/>
+
+## Featured Research & Projects
+
+**[KV-Cache Fabric](https://github.com/kaunteyaarjun/kv-cache-fabric)** — Disaggregated Memory System for LLM Agent Swarms
+`Go` `Rust` `gRPC`
+Hardware-agnostic KV-cache memory fabric with VRAM-to-DRAM tiering, concurrent radix-tree prefix caching, and race-free two-phase eviction for autonomous LLM agent swarms.
+- 53% reduction in time-to-first-token on partial cache hits
+- 99.3% prefix-cache reuse across multi-agent benchmarks
+- Zero deadlocks or OOM errors under a 16-concurrent-agent eviction stress test
+
+**[CodeSentry](https://github.com/kaunteyaarjun/code_inspection_tool)** — Self-Hosted DevSecOps Code Inspector
+`JavaScript` `TypeScript` `Python`
+Open-source, self-hosted codebase inspector — a free alternative to CodeRabbit — that scans JS/TS and Python codebases and returns an automated production-readiness verdict. Leading a team of 4 developers.
+
+**AI-Based Loan Disbursement System**
+`AI/ML` `Automation`
+System that uses AI to automate loan eligibility scoring and disbursement workflows.
+
+<br/>
+
+## Skills
+
+| | |
+|---|---|
+| **Languages** | Go · Rust · TypeScript · Python · JavaScript · HTML5 · CSS3 |
+| **Backend / Infra** | Node.js · gRPC · RAG · Agentic AI · Full-Stack Architecture |
+| **Frontend** | React · Next.js · GSAP Animations |
+| **Security** | Cybersecurity Fundamentals · Penetration Testing basics |
+| **Tools** | Git / GitHub · AI-Assisted Development Workflows |
+
+<br/>
+
+## Education & Certifications
+
+- Diploma in Cybersecurity — OHSC Co.
+- Python 101 — Kaggle
+- Encoder–Decoder Architecture — Udacity
+
+<br/>
 
 <div align="center">
-<h3>Portfolio & Socials</h3>
-<p align="center">
-<a href="https://somya.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00BFFF&border=00BFFF" /></a>
-<a href="https://github.com/kaunteyaarjun" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-</div>
-
-<div align="center">
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=80&section=footer" width="100%"/>
-<code>2026 Kaunteya Arjun | Focus. Precision. Code.</code>
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=110&section=footer" width="100%"/>
 </div>
