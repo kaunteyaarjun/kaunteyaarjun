@@ -3,8 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=190&section=header&text=Somya%20Prasad%20Sethy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Researcher%20%C2%B7%20Self-Taught%20Engineer&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=560&lines=Distributed+systems+%2B+LLM+infrastructure;Building+in+Go%2C+Rust%2C+and+Python;Founder+%40+Pole+Studios;Open+to+remote+roles+worldwide" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Distributed+systems+%2B+LLM+infrastructure;Building+in+Go%2C+Rust%2C+and+Python;Founder+%40+Pole+Studios;Open+to+remote+roles+worldwide" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<!-- Skills marquee: from assets/skills-marquee.svg, committed to this repo -->
+<img src="assets/skills-marquee.svg" width="100%" alt="skills marquee"/>
 
 <br/>
 
@@ -69,6 +74,26 @@ System that uses AI to automate loan eligibility scoring and disbursement workfl
 - Diploma in Cybersecurity — OHSC Co.
 - Python 101 — Kaggle
 - Encoder–Decoder Architecture — Udacity
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<!-- Contribution snake: appears once the workflow in workflows/snake.yml has run at least once -->
+<img src="https://raw.githubusercontent.com/kaunteyaarjun/kaunteyaarjun/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kaunteyaarjun&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunteyaarjun&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true&lang_count=6&icon_color=58a6ff" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaunteyaarjun&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&stroke=ffffff&hide_border=true" width="100%"/>
+
+</div>
 
 <br/>
 
