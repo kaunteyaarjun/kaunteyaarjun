@@ -15,8 +15,9 @@
 
 <a href="mailto:somya5400840@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=8b949e" /></a>
 <a href="https://somya.pages.dev"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=8b949e" /></a>
-<a href="https://polestudios.in"><img src="https://img.shields.io/badge/-PoleStudios-0d1117?style=flat-square&logo=googlechrome&logoColor=8b949e" /></a>
+<a href="https://polestudios.in"><img src="https://img.shields.io/badge/-Pole%20Studios-0d1117?style=flat-square&logo=googlechrome&logoColor=8b949e" /></a>
 <a href="https://github.com/kaunteyaarjun"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=8b949e" /></a>
+<a href="https://github.com/sponsors/kaunteyaarjun"><img src="https://img.shields.io/badge/-Sponsor-0d1117?style=flat-square&logo=githubsponsors&logoColor=db61a2" /></a>
 
 </div>
 
@@ -24,15 +25,15 @@
 
 ## About
 
-Self-taught, AI-assisted full-stack and backend developer with 3+ years building production-grade web applications and developer tooling. Currently focused on backend systems research — distributed caching, agent infrastructure, and DevSecOps tooling. Founder of **PoleStudios**, a branding and web development studio. Open to remote roles worldwide.
+Self-taught, AI-assisted full-stack and backend developer with 3+ years building production-grade web applications and developer tooling. Currently focused on backend systems research — distributed caching, agent infrastructure, and DevSecOps tooling. Founder of **Pole Studios**, a branding and web development studio. Open to remote roles worldwide.
 
 <br/>
 
 ## Experience
 
-**Full-Stack Developer** — Independent / PoleStudios · *Jul 2023 – Present*
+**Full-Stack Developer** — Independent / Pole Studios · *Jul 2023 – Present*
 - Design and build full-stack web applications (Next.js, React, Node.js) for startup founders and small businesses, translating business requirements into production-grade products
-- Founded PoleStudios (Oct 2025) to formalize the practice into a branding and web development studio, operating on zero external capital
+- Founded Pole Studios (Oct 2025) to formalize the practice into a branding and web development studio, operating on zero external capital
 - Built a streamlined requirements-gathering process that cut project delivery time by 15%
 - Applies AI-assisted workflows across the development lifecycle, from scaffolding to code review
 
