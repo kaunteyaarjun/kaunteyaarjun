@@ -86,8 +86,8 @@ System that uses AI to automate loan eligibility scoring and disbursement workfl
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kaunteyaarjun&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunteyaarjun&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true&lang_count=6&icon_color=58a6ff" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=kaunteyaarjun&show_icons=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaunteyaarjun&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&hide_border=true&lang_count=6&icon_color=58a6ff" height="165"/>
 
 <br/>
 
